@@ -1,0 +1,1 @@
+As part of the Spark Foundation internship, this project involves creating a Decision Tree classifier and visualizing it graphically. The classifier should be able to predict the right class of iris flowers when fed new data, showcasing the ability to handle intermediate-level machine learning tasks.
